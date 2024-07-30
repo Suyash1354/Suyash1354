@@ -6,7 +6,7 @@ About Me
 I'm a passionate Frontend Developer and VFX Artist with a keen eye for detail and a love for creating immersive web experiences. With 3 years of VFX experience and 1 years as a freelance frontend developer, I bring a unique blend of creativity and technical expertise to my projects.
 
 🔧 Skills & Tools
-- Frontend Development: HTML, CSS, JavaScript, React, GSAP, ScrollTrigger, LocomotiveScroll
+- Frontend Development: HTML, CSS, JavaScript, React js, GSAP, ScrollTrigger, LocomotiveScroll
 - VFX: After Effects, Blender, Premiere Pro, Photoshop
 - 3D Rendering: Three.js
 
