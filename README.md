@@ -11,10 +11,10 @@ I'm a passionate Frontend Developer and VFX Artist with a keen eye for detail an
 - 3D Rendering: Three.js
 
 📂 Featured Projects
-- Batman Live Action: A thrilling live-action project combining CGI and real-world footage.
-- Naruto vs Sasuke: An epic animation project bringing the iconic battle to life.
-- The Boys Live Action: A dynamic and intense live-action recreation inspired by the popular series.
-- Itachi Uchiha CGI: A stunning CGI project showcasing the legendary character Itachi Uchiha.
+- Portfolio Website, Designed and developed a personal portfolio website showcasing VFX and web development projects.
+- Tourism of Nashik, Created an engaging and informative website for promoting tourism in Nashik, highlighting key attractions, events, and travel information.
+- Rubby Music Player Website, Developed a website to sell the Rubby Music Player app, featuring product information, pricing details, and purchasing options. The app is available for free download.
+
 
 🌟 VFX Portfolio
 Explore my VFX work and see how I bring stories to life through visual effects. [View Portfolio]([link-to-portfolio](https://sergiovfx.netlify.app))
@@ -26,6 +26,7 @@ For the best experience, please view my website on a desktop. The desktop versio
 - Email: sergiopatil31@gmail.com
 - LinkedIn: [Suyash Vinod Patil](https://www.linkedin.com/in/suyashpatil13/)
 - Phone: +91 8010577385
+- webiste : https://sergiovfx.netlify.app
 
 ---
 
