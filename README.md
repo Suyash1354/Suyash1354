@@ -26,7 +26,7 @@ For the best experience, please view my website on a desktop. The desktop versio
 - Email: sergiopatil31@gmail.com
 - LinkedIn: [Suyash Vinod Patil](https://www.linkedin.com/in/suyashpatil13/)
 - Phone: +91 8010577385
-- webiste : https://sergiovfx.netlify.app
+- webiste : https://sergiofx.netlify.app
 
 ---
 
