@@ -3,17 +3,18 @@
 🚀 Frontend Developer | 🎨 VFX Artist
 
 About Me
-I'm a passionate Frontend Developer and VFX Artist with a keen eye for detail and a love for creating immersive web experiences. With 3 years of VFX experience and 1 years as a freelance frontend developer, I bring a unique blend of creativity and technical expertise to my projects.
+I'm a passionate Frontend Developer and VFX Artist with a keen eye for detail and a love for creating immersive web experiences. With 5 years of VFX experience and 3 years as a freelance frontend developer, I bring a unique blend of creativity and technical expertise to my projects.
 
 🔧 Skills & Tools
-- Frontend Development: HTML, CSS, JavaScript, React js, GSAP, ScrollTrigger, LocomotiveScroll
+- Frontend Development: HTML, CSS, JavaScript, React js, GSAP, ScrollTrigger, LocomotiveScroll,Framer Motion.
 - VFX: After Effects, Blender, Premiere Pro, Photoshop
 - 3D Rendering: Three.js
 
 📂 Featured Projects
 - Portfolio Website, Designed and developed a personal portfolio website showcasing VFX and web development projects.
-- Tourism of Nashik, Created an engaging and informative website for promoting tourism in Nashik, highlighting key attractions, events, and travel information.
-- Rubby Music Player Website, Developed a website to sell the Rubby Music Player app, featuring product information, pricing details, and purchasing options. The app is available for free download.
+- Fracture Store is a futuristic e-commerce platform for cyberpunk action figure collectors, built with React, GSAP, and Framer Motion. It combines immersive animations, cinematic visuals, and responsive UI to deliver a sci-fi shopping experience like no other.
+- A high-quality AI image generation website with a stunning, interactive frontend that showcases AI-generated images reacting to mouse movement.
+I built the animated frontend while my teammate handled the backend AI integration.
 
 
 🌟 VFX Portfolio
